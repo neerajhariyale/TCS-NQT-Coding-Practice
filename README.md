@@ -1,10 +1,14 @@
-### A collection of well-structured and optimized solutions for TCS NQT coding problems. Enhance your coding skills and crack the exam with confidence!
+# TCS NQT Coding Solutions
 
-🔥 What’s Inside?
+A collection of well-structured and optimized solutions for TCS NQT coding problems.  
+Enhance your coding skills and crack the exam with confidence!  
 
-✅ Solved coding questions from TCS NQT
-✅ Optimized solutions 
-✅ Covers a variety of coding concepts & problem types
-✅ Useful for coding practice & placement preparation
+## 🔥 What’s Inside?
 
-📌 Star ⭐ the repo if you find it helpful! Contributions & discussions are welcome. Happy coding! 💻🚀
+- ✅ **Solved coding questions from TCS NQT**  
+- ✅ **Optimized solutions**  
+- ✅ **Covers a variety of coding concepts & problem types**  
+- ✅ **Useful for coding practice & placement preparation**  
+
+## 📌 Star ⭐ the repo if you find it helpful!  
+Contributions & discussions are welcome. Happy coding! 💻🚀
