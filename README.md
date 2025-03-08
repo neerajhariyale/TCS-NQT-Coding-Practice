@@ -1,7 +1,5 @@
-# TCS NQT Coding Solutions
-
-A collection of well-structured and optimized solutions for TCS NQT coding problems.  
-Enhance your coding skills and crack the exam with confidence!  
+### A collection of well-structured and optimized solutions for TCS NQT coding problems.  
+## Enhance your coding skills and crack the exam with confidence!  
 
 ## 🔥 What’s Inside?
 
