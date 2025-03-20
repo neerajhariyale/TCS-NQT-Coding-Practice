@@ -1,0 +1,1 @@
+//Remove characters from a string except alphabets

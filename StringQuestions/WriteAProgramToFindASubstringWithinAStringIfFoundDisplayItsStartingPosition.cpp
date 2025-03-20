@@ -1,0 +1,1 @@
+//Write a program to find a substring within a string. If found display its starting position
